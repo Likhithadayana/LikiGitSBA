@@ -1,0 +1,7 @@
+C:\Users\llikhitha\source\repos\SBAcsharp\SBAcsharp\obj\Debug\SBAcsharp.csprojAssemblyReference.cache
+C:\Users\llikhitha\source\repos\SBAcsharp\SBAcsharp\obj\Debug\SBAcsharp.csproj.CoreCompileInputs.cache
+C:\Users\llikhitha\source\repos\SBAcsharp\SBAcsharp\bin\Debug\SBAcsharp.exe.config
+C:\Users\llikhitha\source\repos\SBAcsharp\SBAcsharp\bin\Debug\SBAcsharp.exe
+C:\Users\llikhitha\source\repos\SBAcsharp\SBAcsharp\bin\Debug\SBAcsharp.pdb
+C:\Users\llikhitha\source\repos\SBAcsharp\SBAcsharp\obj\Debug\SBAcsharp.exe
+C:\Users\llikhitha\source\repos\SBAcsharp\SBAcsharp\obj\Debug\SBAcsharp.pdb
