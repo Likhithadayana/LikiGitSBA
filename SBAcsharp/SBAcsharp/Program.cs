@@ -12,6 +12,8 @@ namespace SBAcsharp
         {
 
 
+            /// comments added
+
             Accenture a = new Accenture(101, "liki", "HR", "devloper", 22000);
             Console.WriteLine("Company:Accenture");
             Console.WriteLine("PF = {0}", a.PF(a.basicsal));
